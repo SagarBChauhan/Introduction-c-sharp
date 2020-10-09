@@ -1,0 +1,6 @@
+F:\C# program\sit one\sit one\bin\Debug\sit one.exe
+F:\C# program\sit one\sit one\bin\Debug\sit one.pdb
+F:\C# program\sit one\sit one\obj\x86\Debug\sit one.exe
+F:\C# program\sit one\sit one\obj\x86\Debug\sit one.pdb
+E:\Study\SEM4\GUI Programming\sit one\sit one\obj\x86\Debug\sit one.exe
+E:\Study\SEM4\GUI Programming\sit one\sit one\obj\x86\Debug\sit one.pdb
